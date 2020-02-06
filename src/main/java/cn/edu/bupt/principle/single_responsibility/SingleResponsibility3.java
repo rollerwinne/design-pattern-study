@@ -1,4 +1,4 @@
-package cn.edu.bupt.principle.singleresponsibility;
+package cn.edu.bupt.principle.single_responsibility;
 
 /**
  * 方法级别单一职责原则
