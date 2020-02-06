@@ -10,3 +10,9 @@
 .settings
 .classpath
 .project
+
+# 韩老师源码
+/DesignPattern
+/JDKSRC
+/MyBatis
+/Spring
