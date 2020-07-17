@@ -1,4 +1,4 @@
-package ituring.FactoryMethod.A2.idcard;
+package idcard;
 import framework.*;
 
 public class IDCard extends Product {

@@ -1,5 +1,3 @@
-package ituring.Bridge.A3;
-
 public class CharDisplayImpl extends DisplayImpl {
     private char head;
     private char body;

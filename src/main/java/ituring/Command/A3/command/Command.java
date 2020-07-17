@@ -1,4 +1,4 @@
-package ituring.Command.A3.command;
+package command;
 
 public interface Command {
     public abstract void execute();

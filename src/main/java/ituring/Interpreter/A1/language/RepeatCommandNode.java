@@ -1,4 +1,4 @@
-package ituring.Interpreter.A1.language;
+package language;
 
 // <repeat command> ::= repeat <number> <command list>
 public class RepeatCommandNode extends Node {

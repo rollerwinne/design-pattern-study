@@ -1,5 +1,3 @@
-package ituring.Composite.Sample;
-
 public class FileTreatmentException extends RuntimeException {
     public FileTreatmentException() {
     }

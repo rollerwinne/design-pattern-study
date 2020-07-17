@@ -1,4 +1,4 @@
-package ituring.Prototype.Sample.framework;
+package framework;
 import java.util.*;
 
 public class Manager {

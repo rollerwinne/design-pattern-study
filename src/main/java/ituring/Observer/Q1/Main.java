@@ -1,5 +1,3 @@
-package ituring.Observer.Q1;
-
 public class Main {
     public static void main(String[] args) {
         NumberGenerator generator = new IncrementalNumberGenerator(10, 50, 5);  

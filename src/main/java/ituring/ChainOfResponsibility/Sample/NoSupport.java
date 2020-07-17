@@ -1,5 +1,3 @@
-package ituring.ChainOfResponsibility.Sample;
-
 public class NoSupport extends Support {
     public NoSupport(String name) {
         super(name);

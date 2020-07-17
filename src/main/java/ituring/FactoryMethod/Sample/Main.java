@@ -1,5 +1,3 @@
-package ituring.FactoryMethod.Sample;
-
 import framework.*;
 import idcard.*;
 

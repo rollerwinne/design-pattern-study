@@ -1,5 +1,3 @@
-package ituring.Iterator.A1;
-
 import java.util.ArrayList;
 
 public class BookShelf implements Aggregate {

@@ -1,5 +1,3 @@
-package ituring.Decorator.Sample;
-
 public class SideBorder extends Border {
     private char borderChar;                        // 表示装饰边框的字符
     public SideBorder(Display display, char ch) {   // 通过构造函数指定Display和装饰边框字符 

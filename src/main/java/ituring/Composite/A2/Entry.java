@@ -1,5 +1,3 @@
-package ituring.Composite.A2;
-
 public abstract class Entry {
     protected Entry parent; 
     public abstract String getName();

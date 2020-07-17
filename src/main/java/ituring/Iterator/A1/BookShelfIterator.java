@@ -1,5 +1,3 @@
-package ituring.Iterator.A1;
-
 public class BookShelfIterator implements Iterator {
     private BookShelf bookShelf;
     private int index;

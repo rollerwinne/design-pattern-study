@@ -1,5 +1,3 @@
-package ituring.Interpreter.Sample;
-
 // <primitive command> ::= go | right | left
 public class PrimitiveCommandNode extends Node {
     private String name;

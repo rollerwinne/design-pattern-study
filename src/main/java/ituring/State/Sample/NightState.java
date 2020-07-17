@@ -1,5 +1,3 @@
-package ituring.State.Sample;
-
 public class NightState implements State {
     private static NightState singleton = new NightState();
     private NightState() {                              // 构造函数的可见性是private

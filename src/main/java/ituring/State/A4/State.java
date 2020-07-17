@@ -1,5 +1,3 @@
-package ituring.State.A4;
-
 public interface State {
     public abstract void doClock(Context context, int hour);    // 设置时间
     public abstract void doUse(Context context);                // 使用金库

@@ -1,6 +1,5 @@
-package ituring.State.A3;
-
 import java.awt.Frame;
+import java.awt.Label;
 import java.awt.Color;
 import java.awt.Button;
 import java.awt.TextField;

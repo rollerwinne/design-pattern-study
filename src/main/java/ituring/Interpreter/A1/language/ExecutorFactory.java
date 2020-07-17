@@ -1,4 +1,4 @@
-package ituring.Interpreter.A1.language;
+package language;
 
 public interface ExecutorFactory {
     public abstract Executor createExecutor(String name);

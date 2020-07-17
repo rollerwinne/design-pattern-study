@@ -1,5 +1,3 @@
-package ituring.Strategy.A4;
-
 public class QuickSorter implements Sorter {
     Comparable[] data;
     public void sort(Comparable[] data) {

@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.A2.tablefactory;
+package tablefactory;
 import factory.*;
 
 public class TableLink extends Link {

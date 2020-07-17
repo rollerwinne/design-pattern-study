@@ -1,4 +1,4 @@
-package ituring.FactoryMethod.Sample.idcard;
+package idcard;
 import framework.*;
 import java.util.*;
 

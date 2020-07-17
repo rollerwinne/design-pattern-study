@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.Sample.tablefactory;
+package tablefactory;
 import factory.*;
 
 public class TableFactory extends Factory {

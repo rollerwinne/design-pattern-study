@@ -1,5 +1,3 @@
-package ituring.Flyweight.Sample;
-
 public class BigString {
     // “大型字符”的数组
     private BigChar[] bigchars;

@@ -1,5 +1,3 @@
-package ituring.Observer.A1;
-
 import java.util.Random;
 
 public class RandomNumberGenerator extends NumberGenerator {

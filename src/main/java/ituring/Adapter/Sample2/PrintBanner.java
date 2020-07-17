@@ -1,5 +1,3 @@
-package ituring.Adapter.Sample2;
-
 public class PrintBanner extends Print {
     private Banner banner;
     public PrintBanner(String string) {

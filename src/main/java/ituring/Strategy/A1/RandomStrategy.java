@@ -1,5 +1,3 @@
-package ituring.Strategy.A1;
-
 import java.util.Random;
 
 public class RandomStrategy implements Strategy {

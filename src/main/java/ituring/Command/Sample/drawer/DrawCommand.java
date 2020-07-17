@@ -1,4 +1,4 @@
-package ituring.Command.Sample.drawer;
+package drawer;
 
 import command.Command;
 import java.awt.Point;

@@ -1,5 +1,3 @@
-package ituring.Strategy.Sample;
-
 public class Player {
     private String name;
     private Strategy strategy;

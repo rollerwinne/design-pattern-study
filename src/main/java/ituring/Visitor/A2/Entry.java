@@ -1,5 +1,3 @@
-package ituring.Visitor.A2;
-
 import java.util.Iterator;
 
 public abstract class Entry implements Element {

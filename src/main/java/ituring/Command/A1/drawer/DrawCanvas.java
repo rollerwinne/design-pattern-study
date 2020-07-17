@@ -1,8 +1,11 @@
-package ituring.Command.A1.drawer;
+package drawer;
 
 import command.*;
 
+import java.util.*;
 import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
 
 public class DrawCanvas extends Canvas implements Drawable {
     // 颜色              

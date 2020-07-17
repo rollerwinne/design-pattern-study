@@ -1,5 +1,3 @@
-package ituring.ChainOfResponsibility.Sample;
-
 public abstract class Support {
     private String name;                    // 解决问题的实例的名字
     private Support next;                   // 要推卸给的对象

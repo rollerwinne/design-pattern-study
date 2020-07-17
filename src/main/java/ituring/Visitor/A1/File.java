@@ -1,5 +1,3 @@
-package ituring.Visitor.A1;
-
 public class File extends Entry {
     private String name;
     private int size;

@@ -1,5 +1,3 @@
-package ituring.Adapter.Sample2;
-
 public class Banner {
     private String string;
     public Banner(String string) {

@@ -1,5 +1,3 @@
-package ituring.Decorator.A1;
-
 public abstract class Display {
     public abstract int getColumns();               // 获取横向字符数
     public abstract int getRows();                  // 获取纵向行数

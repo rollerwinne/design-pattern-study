@@ -1,4 +1,4 @@
-package ituring.Facade.Sample.pagemaker;
+package pagemaker;
 
 import java.io.FileWriter;
 import java.io.IOException;

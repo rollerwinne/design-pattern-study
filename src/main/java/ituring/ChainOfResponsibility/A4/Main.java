@@ -1,5 +1,3 @@
-package ituring.ChainOfResponsibility.A4;
-
 public class Main {
     public static void main(String[] args) {
         Support alice   = new NoSupport("Alice");

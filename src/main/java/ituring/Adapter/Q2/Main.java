@@ -1,5 +1,3 @@
-package ituring.Adapter.Q2;
-
 import java.io.*;
 
 public class Main {

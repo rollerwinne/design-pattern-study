@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.Sample.listfactory;
+package listfactory;
 import factory.*;
 
 public class ListLink extends Link {

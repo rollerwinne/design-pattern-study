@@ -1,5 +1,3 @@
-package ituring.Decorator.A2;
-
 public class StringDisplay extends Display {
     private String string;                          // 要显示的字符串
     public StringDisplay(String string) {           // 通过参数传入要显示的字符串

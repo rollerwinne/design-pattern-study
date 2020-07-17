@@ -1,5 +1,3 @@
-package ituring.Decorator.Sample;
-
 public class Main {
     public static void main(String[] args) {
         Display b1 = new StringDisplay("Hello, world.");

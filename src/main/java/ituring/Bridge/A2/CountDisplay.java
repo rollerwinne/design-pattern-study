@@ -1,5 +1,3 @@
-package ituring.Bridge.A2;
-
 public class CountDisplay extends Display {
     public CountDisplay(DisplayImpl impl) {
         super(impl);

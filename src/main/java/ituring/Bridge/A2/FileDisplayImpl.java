@@ -1,5 +1,3 @@
-package ituring.Bridge.A2;
-
 import java.io.*;
 
 public class FileDisplayImpl extends DisplayImpl {

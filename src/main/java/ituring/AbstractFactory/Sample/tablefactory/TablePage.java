@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.Sample.tablefactory;
+package tablefactory;
 import factory.*;
 import java.util.Iterator;
 

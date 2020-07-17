@@ -1,5 +1,3 @@
-package ituring.Composite.Sample;
-
 import java.util.Iterator;
 import java.util.ArrayList;
 

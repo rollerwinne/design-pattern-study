@@ -1,4 +1,4 @@
-package ituring.FactoryMethod.A2.framework;
+package framework;
 
 public abstract class Factory {
     public final Product create(String owner) {

@@ -1,5 +1,3 @@
-package ituring.Facade.Sample;
-
 import pagemaker.PageMaker;
 
 public class Main {

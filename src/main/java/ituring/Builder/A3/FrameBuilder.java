@@ -1,7 +1,6 @@
-package ituring.Builder.A3;
-
 import javax.swing.*;
 import java.awt.event.*;
+import java.awt.*;
 
 public class FrameBuilder extends Builder implements ActionListener {
     private JFrame frame = new JFrame();

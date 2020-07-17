@@ -1,5 +1,3 @@
-package ituring.Decorator.Sample;
-
 public class FullBorder extends Border {
     public FullBorder(Display display) {
         super(display);

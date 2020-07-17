@@ -1,5 +1,3 @@
-package ituring.Interpreter.Sample;
-
 import java.util.ArrayList;
 
 // <command list> ::= <command>* end

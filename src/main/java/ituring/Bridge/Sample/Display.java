@@ -1,5 +1,3 @@
-package ituring.Bridge.Sample;
-
 public class Display {
     private DisplayImpl impl;
     public Display(DisplayImpl impl) {

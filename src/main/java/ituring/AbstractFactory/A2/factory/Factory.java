@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.A2.factory;
+package factory;
 
 public abstract class Factory {
     public static Factory getFactory(String classname) {

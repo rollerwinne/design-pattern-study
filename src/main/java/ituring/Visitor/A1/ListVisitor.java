@@ -1,5 +1,3 @@
-package ituring.Visitor.A1;
-
 import java.util.Iterator;
 
 public class ListVisitor extends Visitor {

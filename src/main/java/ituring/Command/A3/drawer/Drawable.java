@@ -1,4 +1,4 @@
-package ituring.Command.A3.drawer;
+package drawer;
 
 public interface Drawable {
     public abstract void draw(int x, int y);

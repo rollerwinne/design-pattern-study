@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.Sample.factory;
+package factory;
 
 public abstract class Link extends Item {
     protected String url;

@@ -1,5 +1,3 @@
-package ituring.Flyweight.Sample;
-
 import java.util.HashMap;
 
 public class BigCharFactory {

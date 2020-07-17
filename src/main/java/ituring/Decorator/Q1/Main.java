@@ -1,5 +1,3 @@
-package ituring.Decorator.Q1;
-
 public class Main {
     public static void main(String[] args) {
         Display b1 = new StringDisplay("Hello, world.");

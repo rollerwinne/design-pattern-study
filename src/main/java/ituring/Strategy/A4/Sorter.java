@@ -1,5 +1,3 @@
-package ituring.Strategy.A4;
-
 import java.lang.Comparable;
 
 public interface Sorter {

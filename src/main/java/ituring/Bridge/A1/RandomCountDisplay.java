@@ -1,5 +1,3 @@
-package ituring.Bridge.A1;
-
 import java.util.Random;
 
 public class RandomCountDisplay extends CountDisplay {

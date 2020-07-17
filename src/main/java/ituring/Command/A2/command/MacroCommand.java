@@ -1,4 +1,4 @@
-package ituring.Command.A2.command;
+package command;
 
 import java.util.Stack;
 import java.util.Iterator;

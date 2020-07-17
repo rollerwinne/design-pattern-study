@@ -1,5 +1,3 @@
-package ituring.Builder.Sample;
-
 import java.io.*;
 
 public class HTMLBuilder extends Builder {

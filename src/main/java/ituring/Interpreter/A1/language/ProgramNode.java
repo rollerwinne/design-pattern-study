@@ -1,4 +1,4 @@
-package ituring.Interpreter.A1.language;
+package language;
 
 // <program> ::= program <command list>
 public class ProgramNode extends Node {

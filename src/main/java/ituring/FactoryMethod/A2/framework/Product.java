@@ -1,4 +1,4 @@
-package ituring.FactoryMethod.A2.framework;
+package framework;
 
 public abstract class Product {
     public abstract void use();

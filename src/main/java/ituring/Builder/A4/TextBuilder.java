@@ -1,5 +1,3 @@
-package ituring.Builder.A4;
-
 public class TextBuilder extends Builder {
     private String buffer = "";                                 // 文档内容保存在该字段中
     public void makeTitle(String title) {                       // 纯文本的标题

@@ -1,5 +1,3 @@
-package ituring.Prototype.Sample;
-
 import framework.*;
 
 public class UnderlinePen implements Product {

@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.Sample.listfactory;
+package listfactory;
 import factory.*;
 import java.util.Iterator;
 

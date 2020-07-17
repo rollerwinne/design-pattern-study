@@ -1,4 +1,4 @@
-package ituring.Interpreter.A1.language;
+package language;
 
 // <primitive command> ::= go | right | left
 public class PrimitiveCommandNode extends Node {

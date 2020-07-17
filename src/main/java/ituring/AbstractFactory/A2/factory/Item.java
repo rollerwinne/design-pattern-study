@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.A2.factory;
+package factory;
 
 public abstract class Item {
     protected String caption;

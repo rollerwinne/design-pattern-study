@@ -1,5 +1,3 @@
-package ituring.Adapter.A2;
-
 import java.io.*;
 
 public interface FileIO {

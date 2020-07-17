@@ -1,4 +1,4 @@
-package ituring.Interpreter.A1.language;
+package language;
 
 public class InterpreterFacade implements Executor {
     private ExecutorFactory factory;

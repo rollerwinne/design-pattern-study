@@ -1,5 +1,3 @@
-package ituring.Composite.A2;
-
 public class FileTreatmentException extends RuntimeException {
 	public FileTreatmentException() {
     }

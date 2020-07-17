@@ -1,4 +1,4 @@
-package ituring.Memento.Sample.game;
+package game;
 import java.util.*;
 
 public class Memento {

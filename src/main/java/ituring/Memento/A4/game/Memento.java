@@ -1,4 +1,4 @@
-package ituring.Memento.A4.game;
+package game;
 import java.io.*;
 import java.util.*;
 

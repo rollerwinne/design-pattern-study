@@ -1,5 +1,3 @@
-package ituring.Proxy.Sample;
-
 public class PrinterProxy implements Printable {
     private String name;            // 名字
     private Printer real;           // “本人”

@@ -1,4 +1,4 @@
-package ituring.Command.Sample.command;
+package command;
 
 import java.util.Stack;
 import java.util.Iterator;

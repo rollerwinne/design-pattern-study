@@ -1,5 +1,3 @@
-package ituring.AbstractFactory.Sample;
-
 import factory.*;
 
 public class Main {

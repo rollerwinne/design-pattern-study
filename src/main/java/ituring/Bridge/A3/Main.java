@@ -1,5 +1,3 @@
-package ituring.Bridge.A3;
-
 public class Main {
     public static void main(String[] args) {
         IncreaseDisplay d1 = new IncreaseDisplay(new CharDisplayImpl('<', '*', '>'), 1);

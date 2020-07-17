@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.Sample.factory;
+package factory;
 import java.io.*;
 import java.util.ArrayList;
 

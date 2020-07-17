@@ -1,4 +1,4 @@
-package ituring.AbstractFactory.A2.factory;
+package factory;
 import java.util.ArrayList;
 
 public abstract class Tray extends Item {

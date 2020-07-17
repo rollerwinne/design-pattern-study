@@ -1,5 +1,3 @@
-package ituring.Command.A1;
-
 import command.*;
 import drawer.*;
 

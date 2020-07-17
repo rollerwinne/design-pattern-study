@@ -1,5 +1,3 @@
-package ituring.Observer.Sample;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 

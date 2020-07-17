@@ -1,5 +1,3 @@
-package ituring.Proxy.A1;
-
 public class Printer implements Printable {
     private String name;
     public Printer() {

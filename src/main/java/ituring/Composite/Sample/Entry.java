@@ -1,5 +1,3 @@
-package ituring.Composite.Sample;
-
 public abstract class Entry {
     public abstract String getName();                               // 获取名字
     public abstract int getSize();                                  // 获取大小

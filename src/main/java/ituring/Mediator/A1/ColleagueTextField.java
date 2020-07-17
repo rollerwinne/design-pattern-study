@@ -1,5 +1,3 @@
-package ituring.Mediator.A1;
-
 import java.awt.TextField;
 import java.awt.Color;
 import java.awt.event.TextListener;

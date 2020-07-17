@@ -1,8 +1,7 @@
-package ituring.Command.Sample;
-
 import command.*;
 import drawer.*;
 
+import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 

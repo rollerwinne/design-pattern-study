@@ -1,5 +1,3 @@
-package ituring.TemplateMethod.Sample;
-
 public abstract class AbstractDisplay { // 抽象类AbstractDisplay
     public abstract void open();        // 交给子类去实现的抽象方法(1) open
     public abstract void print();       // 交给子类去实现的抽象方法(2) print

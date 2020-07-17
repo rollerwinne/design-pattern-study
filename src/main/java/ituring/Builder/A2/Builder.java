@@ -1,5 +1,3 @@
-package ituring.Builder.A2;
-
 public abstract class Builder {
     private boolean initialized = false;
     public void makeTitle(String title) {
