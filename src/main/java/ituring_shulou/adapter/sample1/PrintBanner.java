@@ -1,4 +1,4 @@
-package ituring_shulou.adapter;
+package ituring_shulou.adapter.sample1;
 
 public class PrintBanner extends Banner implements Print {
     public PrintBanner(String string) {
