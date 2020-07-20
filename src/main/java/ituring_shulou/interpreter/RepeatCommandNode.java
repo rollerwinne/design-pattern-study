@@ -1,4 +1,4 @@
-package ituring_shulou.Interpreter;
+package ituring_shulou.interpreter;
 
 // <repeat command> ::= repeat <number> <command list>
 public class RepeatCommandNode extends Node {

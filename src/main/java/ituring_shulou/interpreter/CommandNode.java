@@ -1,4 +1,4 @@
-package ituring_shulou.Interpreter;
+package ituring_shulou.interpreter;
 
 // <command> ::= <repeat command> | <primitive command>
 public class CommandNode extends Node {

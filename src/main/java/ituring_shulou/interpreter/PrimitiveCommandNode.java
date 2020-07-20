@@ -1,4 +1,4 @@
-package ituring_shulou.Interpreter;
+package ituring_shulou.interpreter;
 
 // <primitive command> ::= go | right | left
 public class PrimitiveCommandNode extends Node {

@@ -1,4 +1,4 @@
-package ituring_shulou.Interpreter;
+package ituring_shulou.interpreter;
 
 public class ParseException extends Exception {
     public ParseException(String msg) {

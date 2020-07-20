@@ -1,4 +1,4 @@
-package ituring_shulou.Interpreter;
+package ituring_shulou.interpreter;
 
 // <program> ::= program <command list>
 public class ProgramNode extends Node {
